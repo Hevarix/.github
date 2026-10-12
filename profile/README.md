@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hevarix-logo.png" alt="Hevarix" width="260" />
+  <img src="hevarix-logo.jpg" alt="Hevarix" width="260" />
 </p>
 
 <h3 align="center">Engineering the future.</h3>
